@@ -5,14 +5,14 @@ A collection of common DSA patterns to study.
 
 ### Foundation
 - Strings
-- Arrays
+- Arrays (two-pointer & sliding window)
 - Hashmaps
 - Linked Lists
 
 ### Intermediate 
-- Graphs
+- Graphs (BFS & DFS)
 - Stacks
-- Binary Trees
+- Binary Trees (inorder, preorder, postorder traversal)
   
 - Matrices
 - Priority Queues
