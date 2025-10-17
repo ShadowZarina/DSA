@@ -7,19 +7,19 @@ A collection of common DSA patterns to study.
 - Strings
 - Arrays
 - Hashmaps
-
-- Insertion Sorting
-- Merge Sorting
+- Linked Lists
 
 ### Intermediate 
-- Matrices
-- Priority Queues
-- Binary Trees
-
-- Linked Lists
 - Graphs
 - Stacks
-- Tries
+- Binary Trees
+  
+- Matrices
+- Priority Queues
+- Trees
+
+
+
 
 ### CURRENT TOPICS TO FOCUS ON
 <img width="1751" height="769" alt="{D4D3C898-8898-451D-9BC5-059DD7A0D087}" src="https://github.com/user-attachments/assets/4576218f-5060-4969-a27c-ca6cf5b3b43f" />
